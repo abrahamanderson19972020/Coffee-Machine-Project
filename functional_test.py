@@ -1,4 +1,4 @@
-from menu import MENU, resources
+from functional_menu import MENU, resources
 
 
 def choice(want):
